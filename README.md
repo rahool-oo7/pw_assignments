@@ -7,7 +7,7 @@ This repository contains my submission for an assignment given as part of the co
 ## 📂 About the Assignment
 
 - 📚 **Topic**: Basics of Python
-- 🧠 **Concepts Covered**: [e.g., Python basics, loops, functions, OOP, etc.]
+- 🧠 **Concepts Covered**: [Introduction, Keywords, Mutability, Operators, Type Casting, Conditionals, Loops, Python Basic]
 - 📝 **File Type**: Jupyter Notebook (`.ipynb`)
 - 🎯 **Objective**: To apply and demonstrate understanding of the concepts learned in the module
 
