@@ -27,7 +27,7 @@ You can open the notebook using:
 ## 🙋‍♂️ About Me
 
 I’m currently enrolled in a course at PW Skills and sharing my assignment solutions here as part of my learning journey.  
-I’m passionate about learning and growing in fields like **Python**, **Data Science**, **Machine Learning**, and more.
+I’m passionate about learning and growing in fields like **Python**, **Data Science**, **Machine Learning**, and **Generative AI**.
 
 ---
 
