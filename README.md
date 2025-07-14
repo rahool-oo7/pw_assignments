@@ -1,6 +1,6 @@
 # 📘 Assignment Submission – PW Skills
 
-This repository contains my submission for an assignment given as part of the course I'm currently pursuing with **PW Skills**.
+This repository contains my weekly submission for an assignment given as part of the course I'm currently pursuing with **PW Skills**.
 
 ---
 
